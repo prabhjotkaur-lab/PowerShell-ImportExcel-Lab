@@ -53,7 +53,7 @@ Another example:
 
 ```powershell
 Get-Service
-``
+```
 
 ---
 
@@ -73,10 +73,11 @@ Get-Service
 > Automation helps system administrators complete repetitive tasks efficiently.
 
 ---
+le
 
-## Adding an image
-![PowerShell and system administration] 
-(images/powershell.png)
+## Adding an Image
+
+![Screenshot](image.png)
 
 ## Useful Link
 
